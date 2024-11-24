@@ -12,7 +12,7 @@ This project is a user-friendly **Body Mass Index (BMI) Calculator** built with 
   - Feet
 - **Real-Time BMI Calculation**: The BMI is calculated as soon as the required inputs are provided, using the formula:
   \[
-  BMI = \frac{\text{Weight (kg)}}{\text{Height (m)}^2}
+  BMI = Weight (kg) / [Height (m)]²
   \]
 - **Health Feedback**: Based on the calculated BMI, the app provides feedback in the following categories:
   - Extremely Underweight
