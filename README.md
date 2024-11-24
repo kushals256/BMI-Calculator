@@ -46,7 +46,7 @@ pip install -r requirements.txt
 ### **4. Run the Application**
 Start the Streamlit server with:
 ```bash
-streamlit run app.py
+streamlit run BmiCalc.py
 ```
 A local URL will be provided (e.g., `http://localhost:8501`). Open it in your browser to use the application.
 
