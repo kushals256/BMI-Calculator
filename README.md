@@ -24,31 +24,32 @@ This project is a user-friendly **Body Mass Index (BMI) Calculator** built with 
 
 ---
 
-## **How to Run the App**
+### **How to Run the App**
 
-### **1. Clone the Repository**
-Clone the project to your local machine using:
-```bash
-git clone https://github.com/your-username/bmi-calculator-streamlit.git
-```
+1. **Clone the Repository**  
+   Open a terminal and clone the repository to your local machine:  
+   ```bash
+   git clone https://github.com/kushals256/BMI-Calculator.git
+   ```  
 
-### **2. Navigate to the Project Directory**
-```bash
-cd bmi-calculator-streamlit
-```
+2. **Navigate to the Project Directory**  
+   Change to the project directory:  
+   ```bash
+   cd BMI-Calculator
+   ```
 
-### **3. Install Dependencies**
-Install the required Python libraries using:
-```bash
-pip install -r requirements.txt
-```
+3. **Install Streamlit**  
+   If you don't have Streamlit installed, run the following command:  
+   ```bash
+   pip install streamlit
+   ```
 
-### **4. Run the Application**
-Start the Streamlit server with:
-```bash
-streamlit run BmiCalc.py
-```
-A local URL will be provided (e.g., `http://localhost:8501`). Open it in your browser to use the application.
+4. **Run the Application**  
+   Start the Streamlit app:  
+   ```bash
+   streamlit run BmiCalc.py
+   ```  
+   A local URL (e.g., `http://localhost:8501`) will appear. Open it in your browser to use the app.
 
 ---
 
