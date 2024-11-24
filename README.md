@@ -1,7 +1,3 @@
-Here’s a detailed and well-structured description for your `README.md` file:
-
----
-
 # **BMI Calculator**
 
 This project is a user-friendly **Body Mass Index (BMI) Calculator** built with **Streamlit**, a Python-based web application framework. The calculator allows users to input their weight and height in different units and calculates their BMI, providing instant feedback on their health status.
